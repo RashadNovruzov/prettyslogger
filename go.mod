@@ -1,4 +1,4 @@
-module prettyslogger
+module github.com/RashadNovruzov/prettyslogger
 
 go 1.22.2
 
