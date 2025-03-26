@@ -1,4 +1,4 @@
-package slogpretty
+package prettyslogger
 
 import (
 	"context"

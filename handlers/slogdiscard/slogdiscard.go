@@ -1,4 +1,4 @@
-package slogdiscard
+package prettyslogger
 
 import (
 	"context"
