@@ -1,0 +1,1 @@
+Pretty logger with different colors for local development and testing
